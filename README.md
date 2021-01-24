@@ -1,1 +1,1 @@
-# This repo contains ubuntu scripts
+# This repo contains ubuntu scripts from WSL
