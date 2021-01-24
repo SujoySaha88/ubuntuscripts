@@ -1,1 +1,1 @@
-# This repo contains Ubuntu Scripts
+# This repo contains ubuntu scripts
